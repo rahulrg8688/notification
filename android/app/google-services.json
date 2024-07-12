@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "223478065247",
+    "project_id": "notificationsbackground",
+    "storage_bucket": "notificationsbackground.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223478065247:android:5f79e57d6926bd968b13ea",
+        "android_client_info": {
+          "package_name": "com.example.notifications_video_call"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG79a-9sctDJssibXlekMrBEe3NySwKs4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,15 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.notifications_video_call">
+    <application
+
+        android:label="com.example.notifications_video_call"
+        tools:replace="android:label"
+        android:theme="@style/AppTheme">
+    </application>
+
+
+
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+</manifest>
