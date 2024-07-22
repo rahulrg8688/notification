@@ -49,8 +49,6 @@ class JitseState extends State<Jitse> {
   final _jitsiMeetPlugin = JitsiMeet();
 
   join() async {
-
-
     var options = JitsiMeetConferenceOptions(
         serverURL: "https://conference.careaxes.net",
         room: payload['body']['room no'],

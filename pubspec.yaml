@@ -40,6 +40,8 @@ dependencies:
   flutter_local_notifications: ^17.2.1+1
   jitsi_meet_flutter_sdk: ^0.4.2
   get: ^4.6.6
+  flutter_callkit_incoming: ^2.0.4+1
+  uuid: ^4.4.2
 
 dev_dependencies:
   flutter_test:
